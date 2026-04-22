@@ -1,0 +1,2796 @@
+{
+  "Trading Depot": {
+    "domain": "www.tradingdepot.co.uk",
+    "sitemap": "https://www.tradingdepot.co.uk/pub/media/sitemap/sitemap_index.xml",
+    "product_count": 49350,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "HeatandPlumb.com": {
+    "domain": "www.heatandplumb.com",
+    "sitemap": "https://www.heatandplumb.com/sitemap/google-sitemap-index.xml",
+    "product_count": 40936,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "B&Q": {
+    "status": "skipped",
+    "reason": "WAF/blocked/impractical",
+    "last_checked": "2026-04-21"
+  },
+  "Taps Empire": {
+    "status": "skipped",
+    "reason": "WAF/blocked/impractical",
+    "last_checked": "2026-04-21"
+  },
+  "BHL.co.uk": {
+    "domain": "www.bhl.co.uk",
+    "sitemap": "https://www.bhl.co.uk/sitemap/sitemap.xml",
+    "product_count": 115429,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Plumb Centre": {
+    "status": "skipped",
+    "reason": "WAF/blocked/impractical",
+    "last_checked": "2026-04-21"
+  },
+  "Amazon.co.uk": {
+    "status": "skipped",
+    "reason": "WAF/blocked/impractical",
+    "last_checked": "2026-04-21"
+  },
+  "Screwfix.com": {
+    "status": "skipped",
+    "reason": "WAF/blocked/impractical",
+    "last_checked": "2026-04-21"
+  },
+  "Plumb2u": {
+    "domain": "www.plumb2u.com",
+    "sitemap": "https://www.plumb2u.com/Sitemap.asp?AccID=122267&LangID=1",
+    "product_count": 7559,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Amazon.co.uk - Amazon.co.uk-Seller": {
+    "status": "skipped",
+    "reason": "WAF/blocked/impractical",
+    "last_checked": "2026-04-21"
+  },
+  "City Plumbing": {
+    "domain": "www.cityplumbing.co.uk",
+    "sitemap": "https://www.cityplumbing.co.uk/sitemap.xml",
+    "product_count": 71685,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Croxley Plumbing Supplies": {
+    "domain": "www.croxleyplumbing.co.uk",
+    "sitemap": "https://www.croxleyplumbing.co.uk/sitemap.xml",
+    "product_count": 44693,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Radiators.co.uk": {
+    "domain": "www.radiators.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "QS Bathroom Supplies": {
+    "domain": "www.qssupplies.co.uk",
+    "sitemap": "https://www.qssupplies.co.uk/sitemap.xml",
+    "product_count": 569,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "MBD Bathrooms": {
+    "domain": "www.mbdbathrooms.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Stelrad": {
+    "domain": "www.stelrad.com",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Electrical Deals Direct": {
+    "domain": "www.electricaldealsdirect.co.uk",
+    "sitemap": "https://electricaldealsdirect.co.uk/sitemap.xml",
+    "product_count": 3467,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Taps UK": {
+    "domain": "www.tapsuk.com",
+    "sitemap": "https://www.tapsuk.com/sitemap.xml",
+    "product_count": 10389,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Victorian Plumbing": {
+    "domain": "www.victorianplumbing.co.uk",
+    "sitemap": "https://www.victorianplumbing.co.uk/sitemap.xml",
+    "product_count": 160,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "mrcentralheating.co.uk dy": {
+    "domain": "www.mrcentralheating.co.uk",
+    "sitemap": "https://www.mrcentralheating.co.uk/media/sitemap/sitemap.xml",
+    "product_count": 6817,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "PlumbArena.co.uk": {
+    "domain": "www.plumbarena.co.uk",
+    "sitemap": "https://www.plumbarena.co.uk/sitemap.xml",
+    "product_count": 18051,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Toolstation": {
+    "domain": "www.toolstation.com",
+    "sitemap": "https://www.toolstation.com/sitemap.xml",
+    "product_count": 9685,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Unbeatable Bathrooms": {
+    "domain": "www.unbeatbathrooms.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Robert Dyas": {
+    "domain": "www.robertdyas.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "HVAC Sanitary": {
+    "domain": "www.hvacsanitary.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "TradePoint": {
+    "status": "skipped",
+    "reason": "WAF/blocked/impractical",
+    "last_checked": "2026-04-21"
+  },
+  "golita.co.uk": {
+    "domain": "www.golita.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Bathroom Supplies Online": {
+    "domain": "www.bathroomsuppliesonline.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Bathrooms and Showers Direct": {
+    "domain": "www.bathroomsandshowersdirect.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "MP Moran & Sons": {
+    "domain": "www.mpmoran.co.uk",
+    "sitemap": "https://www.mpmoran.co.uk/media/sitemap/sitemap2.xml",
+    "product_count": 19890,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Mr Central Heating": {
+    "domain": "www.mrcentralheating.co.uk",
+    "sitemap": "https://www.mrcentralheating.co.uk/media/sitemap/sitemap.xml",
+    "product_count": 6817,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Plumbing Superstore": {
+    "domain": "www.plumbing-superstore.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "TDL Online": {
+    "domain": "www.tdlonline.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Macdonald Plumbing Supplies": {
+    "domain": "www.macdonaldps.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "JT Atkinson Builders Merchant": {
+    "domain": "www.jtatkinson.co.uk",
+    "sitemap": "https://www.jtatkinson.co.uk/media/sitemap/sitemap.xml",
+    "product_count": 24722,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Ergonomic Designs Bathrooms": {
+    "domain": "www.ergonomicdesigns.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Discount Heating": {
+    "domain": "www.discountheating.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Bathroom Planet": {
+    "domain": "www.bathroomplanet.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "showerstoyou.co.uk": {
+    "domain": "www.showerstoyou.co.uk",
+    "sitemap": "https://www.showerstoyou.co.uk/sitemap",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Envy Bathrooms UK": {
+    "domain": "www.envybathrooms.co.uk",
+    "sitemap": "https://envybathrooms.co.uk/sitemap.xml",
+    "product_count": 24608,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Plumbsave": {
+    "domain": "www.plumbsave.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Wayfair.co.uk": {
+    "domain": "www.wayfair.co.uk",
+    "sitemap": "https://www.wayfair.co.uk/seo-category-index.xml",
+    "product_count": 425,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "VPS Hot Water Cylinders": {
+    "domain": "www.vpshotwater.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Vaillant": {
+    "domain": "www.vaillant.co.uk",
+    "sitemap": "https://www.vaillant.co.uk/xml-sitemap.xml",
+    "product_count": 269,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "British Bathroom Company": {
+    "domain": "www.britishbathroomcompany.co.uk",
+    "sitemap": "https://www.britishbathroomcompany.co.uk/sitemap-index.xml",
+    "product_count": 2271,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Superlec Direct": {
+    "domain": "www.superlecdirect.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Mastertrade": {
+    "domain": "www.mastertrade.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Pump Sales Direct": {
+    "domain": "www.pumpsalesdirect.co.uk",
+    "sitemap": "https://www.pumpsalesdirect.co.uk/media/sitemap/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Plumb-Warehouse.co.uk": {
+    "domain": "www.plumb-warehouse.co.uk",
+    "sitemap": "https://www.plumb-warehouse.co.uk/sitemap-index.xml",
+    "product_count": 5,
+    "status": "low_count",
+    "last_checked": "2026-04-21"
+  },
+  "Warmflow": {
+    "domain": "www.warmflow.co.uk",
+    "sitemap": "https://www.warmflow.co.uk/sitemap.xml",
+    "product_count": 30,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Worcester Bosch": {
+    "domain": "www.worcester-bosch.co.uk",
+    "sitemap": "https://www.worcester-bosch.co.uk/sitemap.xml",
+    "product_count": 2723,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Ideal Heating": {
+    "domain": "www.idealheating.com",
+    "sitemap": "https://idealheating.com/sitemap-index.xml",
+    "product_count": 594,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Plumbing World": {
+    "domain": "www.plumbingworld.co.uk",
+    "sitemap": "https://www.plumbingworld.co.uk/sitemap/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "AQVA Bathrooms": {
+    "domain": "www.aqva.co.uk",
+    "sitemap": "https://www.aqva.co.uk/sitemap.xml",
+    "product_count": 192,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Inspired Heating": {
+    "domain": "www.inspiredheating.co.uk",
+    "sitemap": "https://www.inspiredheating.co.uk/sitemaps/sitemap.xml",
+    "product_count": 2764,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Wickes": {
+    "domain": "www.wickes.co.uk",
+    "sitemap": "https://www.wickes.co.uk/sitemap.xml",
+    "product_count": 36827,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Eco Wizard": {
+    "domain": "www.ecowizard.co.uk",
+    "sitemap": "https://www.ecowizard.co.uk/sitemaps/blogs.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Builder Depot": {
+    "domain": "www.builderdepot.co.uk",
+    "sitemap": "https://www.builderdepot.co.uk/sitemap.xml",
+    "product_count": 10941,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Heater Shop": {
+    "domain": "www.heatershop.co.uk",
+    "sitemap": "https://www.heatershop.co.uk/sitemap.xml",
+    "product_count": 3803,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Innovate Electrical": {
+    "domain": "www.innovateelectrical.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Wholesale Domestic": {
+    "domain": "www.wholesaledomestic.com",
+    "sitemap": "https://www.wholesaledomestic.com/xmlsitemap.php?type=pages&page=1",
+    "product_count": 223,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Fuel Tank Shop": {
+    "domain": "www.fueltankshop.co.uk",
+    "sitemap": "https://www.fueltankshop.co.uk/feeds/sitemap.xml",
+    "product_count": 2360,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "SuperBath.co.uk": {
+    "domain": "www.superbath.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "JT Dove": {
+    "domain": "www.jtdove.co.uk",
+    "sitemap": "https://jtdove.co.uk/sitemaps/article_categories.xml",
+    "product_count": 2,
+    "status": "low_count",
+    "last_checked": "2026-04-21"
+  },
+  "Gledhill": {
+    "domain": "www.gledhillwater.com",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Bathroom & Tile Centre": {
+    "domain": "www.bathroomandtilecentre.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "The Shower Doctor": {
+    "domain": "www.theshowerdoctor.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Anchor Pumps": {
+    "domain": "www.anchorpumps.com",
+    "sitemap": "https://www.anchorpumps.com/sitemap.xml",
+    "product_count": 32022,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Electrical2go": {
+    "domain": "www.electrical2go.co.uk",
+    "sitemap": "https://www.electrical2go.co.uk/media/sitemap/e2g_sitemap_index.xml",
+    "product_count": 38560,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "BES": {
+    "domain": "www.bes.co.uk",
+    "sitemap": "https://www.bes.co.uk/media/feeds/sitemap.xml",
+    "product_count": 15895,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Kitchen Sinks and Taps": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Baxi": {
+    "domain": "www.baxi.co.uk",
+    "sitemap": "https://www.baxi.co.uk/sitemap.xml",
+    "product_count": 675,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "MonsterPlumb": {
+    "domain": "www.monsterplumbing.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Stelrad Radiators": {
+    "domain": "www.stelrad.com",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Puffin Bathrooms": {
+    "domain": "www.puffinbathrooms.co.uk",
+    "sitemap": "https://puffinbathrooms.co.uk/sitemap.xml",
+    "product_count": 661,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Tradeplumbing.co.uk": {
+    "domain": "www.tradeplumbing.co.uk",
+    "sitemap": "https://www.tradeplumbing.co.uk/sitemap.xml",
+    "product_count": 3163,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "theheatxchange.co.uk": {
+    "domain": "www.theheatxchange.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Huws Gray": {
+    "domain": "www.huwsgray.co.uk",
+    "sitemap": "https://www.huwsgray.co.uk/media/google_sitemap.xml",
+    "product_count": 43190,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Empire Electro": {
+    "domain": "www.empireelectro.co.uk",
+    "sitemap": "https://www.empireelectro.co.uk/sitemap.xml",
+    "product_count": 2053,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "The Panel Company": {
+    "domain": "www.panelcompany.co.uk",
+    "sitemap": "https://www.panelcompany.co.uk/sitemap.xml",
+    "product_count": 661,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Advanced Water Company": {
+    "domain": "www.advancedwater.co.uk",
+    "sitemap": "https://www.advancedwater.co.uk/sitemap.xml",
+    "product_count": 7584,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "NWT Direct": {
+    "domain": "www.nwt.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "On-Demand Supplies": {
+    "domain": "www.on-demand.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "TLC Electrical": {
+    "domain": "www.tlc-direct.co.uk",
+    "sitemap": "https://www.tlc-direct.co.uk/sitemap_index.xml",
+    "product_count": 72617,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Buyaparcel.com": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Paton Of Walton": {
+    "domain": "www.patonofwalton.co.uk",
+    "sitemap": "https://patonofwalton.co.uk/sitemap_index.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Appliance Shop": {
+    "domain": "www.theapplianceshop.co.uk",
+    "sitemap": "https://www.theapplianceshop.co.uk/wp-sitemap.xml",
+    "product_count": 2002,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Lords Builders Merchants": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "TradeHeat": {
+    "domain": "www.tradeheat.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Long Eaton Appliance Company": {
+    "domain": "www.longeatonappliances.co.uk",
+    "sitemap": "https://www.longeatonappliances.co.uk/sitemap.xml",
+    "product_count": 9214,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Appliances Direct": {
+    "domain": "www.appliances.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "KPS": {
+    "domain": "www.kps.co.uk",
+    "sitemap": "https://www.kps.co.uk/sitemap_index.xml",
+    "product_count": 64,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Direct Heating Spares": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "cwberry.com": {
+    "domain": "www.cwberry.com",
+    "sitemap": "https://www.cwberry.com/sitemap/sitemap.xml",
+    "product_count": 20712,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "CNM Online": {
+    "domain": "www.cnmonline.co.uk",
+    "sitemap": "https://www.cnmonline.co.uk/sitemap.xml",
+    "product_count": 4542,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Complete Pump Supplies": {
+    "domain": "www.completepumpsupplies.co.uk",
+    "sitemap": "https://www.completepumpsupplies.co.uk/pub/media/sitemap/sitemap.xml",
+    "product_count": 3925,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Currys": {
+    "domain": "www.currys.co.uk",
+    "status": "skipped",
+    "reason": "WAF/blocked/impractical",
+    "last_checked": "2026-04-21"
+  },
+  "Bathshack": {
+    "domain": "www.bathshack.com",
+    "sitemap": "https://www.bathshack.com/sitemap.xml",
+    "product_count": 4774,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "TradeSparky": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Tap Warehouse": {
+    "domain": "www.tapwarehouse.com",
+    "sitemap": "https://www.tapwarehouse.com/sitemap.xml",
+    "product_count": 7161,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "snh.co.uk": {
+    "domain": "www.snhtradecentre.co.uk",
+    "sitemap": "https://snhtradecentre.co.uk/sitemap_index.xml",
+    "product_count": 3501,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "HomeSupply": {
+    "domain": "www.homesupplies.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Luxury Plumbing": {
+    "domain": "www.luxuryplumbing.co.uk",
+    "sitemap": "https://luxuryplumbing.co.uk/sitemap_index.xml",
+    "product_count": 324,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Joule": {
+    "domain": "www.joule.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Beacon Electrical": {
+    "domain": "www.beaconelectrical.co.uk",
+    "sitemap": "https://www.beaconelectrical.co.uk/sitemaps/blogs.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "RubberduckBathrooms.co.uk": {
+    "domain": "www.rubberduckbathrooms.co.uk",
+    "sitemap": "https://www.rubberduckbathrooms.co.uk/sitemap.xml",
+    "product_count": 19554,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Paul Davies Appliances": {
+    "domain": "www.pauldavieskitchensandappliances.co.uk",
+    "sitemap": "https://www.pauldavieskitchensandappliances.co.uk/pub/sitemap.xml",
+    "product_count": 1949,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Sinks.co.uk": {
+    "domain": "www.sinks.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Bradfords": {
+    "domain": "www.bradfords.co.uk",
+    "sitemap": "https://www.bradfords.co.uk/media/sitemap/sitemap.xml",
+    "product_count": 23997,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Electricpoint": {
+    "domain": "www.electricpoint.com",
+    "sitemap": "https://www.electricpoint.com/sitemaps/sitemap.xml",
+    "product_count": 12750,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Corgi Direct": {
+    "domain": "uk.corgi.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Grant": {
+    "domain": "www.grantuk.com",
+    "sitemap": "https://www.grantuk.com/sitemap.xml",
+    "product_count": 1410,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Firebird": {
+    "domain": "www.firebird.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Heatrae Sadia": {
+    "domain": "www.heatraesadia.com",
+    "sitemap": "https://www.heatraesadia.com/sitemap.xml",
+    "product_count": 176,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Build & Plumb": {
+    "domain": "www.buildandplumb.co.uk",
+    "sitemap": "https://www.buildandplumb.co.uk/sitemap-index.xml",
+    "product_count": 2276,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Big On Electricals": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Real Shopping": {
+    "domain": "www.real-shopping.co.uk",
+    "sitemap": "https://www.real-shopping.co.uk/sitemap_index.xml",
+    "product_count": 633,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "John Lewis & Partners": {
+    "domain": "www.johnlewis.com",
+    "sitemap": "https://www.johnlewis.com/siteindex.xml",
+    "product_count": 138,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Sparkworld": {
+    "domain": "sparkworld.co.uk",
+    "sitemap": "https://sparkworld.co.uk/sitemap.xml",
+    "product_count": 4386,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "OnlinePumpSupplies.com": {
+    "domain": "www.onlinepumpsupplies.com",
+    "sitemap": "https://www.anchorpumps.com/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Air Con Centre": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "CEF": {
+    "domain": "www.cef.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Plumbing Supplies Direct": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "National Heater Shops": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "HomeRads": {
+    "domain": "www.homerads.com",
+    "sitemap": "https://www.homerads.com/sitemap.xml",
+    "product_count": 7177,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "WestsideBathrooms": {
+    "domain": "www.westsidebathrooms.co.uk",
+    "sitemap": "https://www.westsidebathrooms.co.uk/sitemap.xml",
+    "product_count": 18476,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Luxury Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Shop4 Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Better Bathrooms": {
+    "domain": "better-bathrooms.com",
+    "sitemap": "https://better-bathrooms.com/sitemap.xml",
+    "product_count": 1,
+    "status": "low_count",
+    "last_checked": "2026-04-21"
+  },
+  "Freemans": {
+    "domain": "www.freemans.com",
+    "sitemap": "https://www.freemans.com/siteindex.xml",
+    "product_count": 192315,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Heating & Kitchens Buying Group": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Independent 4 Life": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Smiths TV": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "QBIC Heating": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "AdaptationSupplies.com": {
+    "domain": "www.adaptationsupplies.com",
+    "sitemap": "https://www.adaptationsupplies.com/sitemap.xml",
+    "product_count": 500,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "ManoMano.co.uk": {
+    "domain": "www.manomano.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "The Electrical Counter": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "We Love Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Travis Perkins": {
+    "domain": "www.travisperkins.co.uk",
+    "sitemap": "https://www.travisperkins.co.uk/sitemap.xml",
+    "product_count": 21015,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Equality Mobility": {
+    "domain": "www.equality-mobility.co.uk",
+    "sitemap": "https://www.equality-mobility.co.uk/sitemap.xml",
+    "product_count": 316,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "UK Bathroom Store": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Inspired Homestore": {
+    "domain": "www.inspired-home.com",
+    "sitemap": "https://www.inspired-home.com/sitemap.xml",
+    "product_count": 124,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Direct Plumbing Supplies": {
+    "domain": "direct-plumbing.co.uk",
+    "sitemap": "https://direct-plumbing.co.uk/sitemap.xml",
+    "product_count": 3,
+    "status": "low_count",
+    "last_checked": "2026-04-21"
+  },
+  "Dorchester Plumbing Supplies": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Underfloor Heating Direct": {
+    "domain": "www.brandwise.co.uk",
+    "sitemap": "https://www.brandwise.co.uk/sitemap.xml",
+    "product_count": 3350,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Argos": {
+    "domain": "www.argos.co.uk",
+    "sitemap": "https://www.argos.co.uk/sitemap.xml",
+    "product_count": 84862,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Trade Hut Direct": {
+    "domain": "www.trade-hut.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "UK Radiators": {
+    "domain": "www.uk-radiators.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Eastcoast Kitchens": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "PlumbinBits": {
+    "domain": "plumbinbits.co.uk",
+    "sitemap": "https://plumbinbits.co.uk/sitemap.xml",
+    "product_count": 1012,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Ruislip Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Bath & More": {
+    "domain": "www.bath-more.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "My Green Lighting": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "IronmongeryDirect": {
+    "domain": "www.ironmongerydirect.co.uk",
+    "sitemap": "https://www.ironmongerydirect.co.uk/sitemaps/products.xml",
+    "product_count": 22888,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "test-meter.co.uk": {
+    "domain": "www.test-meter.co.uk",
+    "sitemap": "https://www.test-meter.co.uk/media/sitemap_category.xml",
+    "product_count": 165,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Appliance Centre": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Littlewoods": {
+    "domain": "www.littlewoods.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Worcester": {
+    "domain": "www.worcesteronline.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Ideal": {
+    "domain": "www.ideal.co.uk",
+    "sitemap": "https://www.ideal.co.uk/sitemap_index.xml",
+    "product_count": 139,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Webbs Electricals": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Element Shop": {
+    "domain": "www.element.com",
+    "sitemap": "https://www.element.com/sitemap.xml",
+    "product_count": 2029,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Clenergy": {
+    "domain": "www.clenergy.com",
+    "sitemap": "https://www.clenergy.com/sitemap_index.xml",
+    "product_count": 67,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Bathrooms Direct Yorkshire": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Glow-Worm": {
+    "domain": "www.glow-worm.co.uk",
+    "sitemap": "https://www.glow-worm.co.uk/xml-sitemap-index-521135.xml",
+    "product_count": 75,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Trade Counters Direct": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Direct Trade Supplies": {
+    "domain": "chlo-products.net",
+    "sitemap": "https://www.chlo-products.net/1_index_sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "UK Electrical Supplies": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Trade Washrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Brand New Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Bathshop321": {
+    "domain": "www.bathshop321.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "showers-direct2u.co.uk": {
+    "domain": "www.showers-direct2u.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Wilko": {
+    "domain": "www.wilko.com",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "AO.com": {
+    "domain": "www.ao.com",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Cooker Hoods": {
+    "domain": "www.cooker-hoods.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "gasproducts.co.uk": {
+    "domain": "www.gasproducts.co.uk",
+    "sitemap": "https://www.gasproducts.co.uk/media/sitemap.xml",
+    "product_count": 2732,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Plumbing and Bathrooms Direct": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Modern Living Kitchens & Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "FixTheBog": {
+    "domain": "www.fixthebog.uk",
+    "sitemap": "https://a293519.sitemaphosting2.com/4338856/sitemap_4338856.xml",
+    "product_count": 10525,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Sinks-Taps.com": {
+    "domain": "www.sinks-taps.com",
+    "sitemap": "https://www.sinks-taps.com/sitemap.xml",
+    "product_count": 2947,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Fastensol": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Homebase": {
+    "domain": "www.homebase.co.uk",
+    "sitemap": "https://www.homebase.co.uk/en-uk/sitemap.xml",
+    "product_count": 148274,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Very": {
+    "domain": "www.very.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "eibabo.uk": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Designer Radiators Direct": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Power Discount LLP": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Unvented Components Europe": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "MyBathStore": {
+    "domain": "www.mybath.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Anglian Pumping": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Best 4 Electrics": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Ashdown Home Store": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "westbasedirect.com": {
+    "domain": "westbasedirect.com",
+    "sitemap": "https://westbasedirect.com/sitemap.xml",
+    "product_count": 25001,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Nuovo Luxury": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Spares Direct": {
+    "domain": "www.spares.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Heating Controls Online": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Trade Boiler Parts": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Wellingtons Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Columnrads.co.uk": {
+    "domain": "www.mrcentralheating.co.uk",
+    "sitemap": "https://www.mrcentralheating.co.uk/media/sitemap/sitemap.xml",
+    "product_count": 6817,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Main": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Turnbull": {
+    "domain": "www.turnbull.co.uk",
+    "sitemap": "https://www.turnbull.co.uk/sitemap.xml",
+    "product_count": 4968,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "JTSpas.co.uk": {
+    "domain": "www.jtspas.co.uk",
+    "sitemap": "https://www.jtspas.co.uk/sitemap.xml",
+    "product_count": 3212,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Dunelm": {
+    "domain": "www.dunelm.com",
+    "sitemap": "https://www.dunelm.com/sitemap.xml",
+    "product_count": 43436,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Electric Heating Company": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "electricshop.com": {
+    "domain": "www.electricshop.com",
+    "sitemap": "https://www.electricshop.com/sitemap.xml",
+    "product_count": 4058,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Trade Superstore Online": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Honeywell Home, By Resideo": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Genesis Home Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Fastlec": {
+    "domain": "www.fastlec.co.uk",
+    "sitemap": "https://www.fastlec.co.uk/media/sitemap/sitemap.xml",
+    "product_count": 8563,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Bubbles Showers and Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Drench": {
+    "domain": "www.drench.co.uk",
+    "sitemap": "https://www.drench.co.uk/sitemap.xml",
+    "product_count": 5653,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Zip": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Bathroom House": {
+    "domain": "www.bathroom-house.co.uk",
+    "sitemap": "https://www.bathroom-house.co.uk/sitemap/sitemap.xml",
+    "product_count": 8649,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Donaghy Bros": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Tradepumps": {
+    "domain": "www.tradepumps.com",
+    "sitemap": "https://www.tradepumps.com/sitemap/sitemap.xml",
+    "product_count": 15852,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Unbeatable Kitchens": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Megaflo": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Byretech": {
+    "domain": "byretech.com",
+    "sitemap": "http://byretech.com/sitemap_index.xml",
+    "product_count": 492,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "BathroomsbyDesign": {
+    "domain": "www.bathroomsbydesign.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Plumbflex": {
+    "domain": "plumbflex.co.uk",
+    "sitemap": "https://plumbflex.co.uk/sitemap.xml",
+    "product_count": 7588,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "VPS Underfloor Heating": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "At Home Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Atlantic Electrics - Authorised Dealer": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Prestige Washrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Electrical Wholesalers 4U": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "J.C. Campbell Electrics": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "The Kitchen Box": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "PRC Direct - Authorised Dealer": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Triton Showers": {
+    "domain": "www.tritonshowers.co.uk",
+    "sitemap": "https://www.tritonshowers.co.uk/media/sitemaps/sitemap.xml",
+    "product_count": 2195,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "jdcateringequip.co.uk": {
+    "domain": "jdcateringequip.co.uk",
+    "sitemap": "https://jdcateringequip.co.uk/sitemap.xml",
+    "product_count": 25001,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "ApplianceWorldOnline": {
+    "domain": "www.applianceworld.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Heating Parts Warehouse": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Banyo": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Choice Kitchen Shop": {
+    "domain": "choice-kitchen.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Stoves Are Us": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Climate Controls and Spares": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "plumbhub.co.uk": {
+    "domain": "www.plumbhub.co.uk",
+    "sitemap": "https://www.plumbhub.co.uk/sitemap.xml",
+    "product_count": 11150,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Fireplace World UK": {
+    "domain": "www.fireplace-world.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Debenhams": {
+    "domain": "www.debenhams.com",
+    "sitemap": "https://www.debenhams.com/sitemap/debenhams/sitemap.xml",
+    "product_count": 6533,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Electricals Online": {
+    "domain": "www.electricals.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Glow-worm": {
+    "domain": "www.glow-worm.co.uk",
+    "sitemap": "https://www.glow-worm.co.uk/xml-sitemap-index-521135.xml",
+    "product_count": 75,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "BathLab.co.uk": {
+    "domain": "www.bathlab.co.uk",
+    "sitemap": "https://www.bathlab.co.uk/sitemap.xml",
+    "product_count": 3767,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "yesss.co.uk": {
+    "domain": "www.yesss.co.uk",
+    "sitemap": "https://www.yesss.co.uk/sitemap.xml",
+    "product_count": 18839,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "The Plumbline": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Commercial Washrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Mira Showers Store UK": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "BYUBathrooms": {
+    "domain": "byubathrooms.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "DirectFireplaces.com": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "ERF Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "CE Online - Catering Equipment Online": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Fireplace Megastore": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "PCS Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Walton Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Mullen Domestic": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Appliance Source": {
+    "domain": "appliance-source.co.uk",
+    "sitemap": "https://appliance-source.co.uk/sitemap.xml",
+    "product_count": 269,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "HotPrice Fireplaces": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Fernox": {
+    "domain": "fernox.com",
+    "sitemap": "https://fernox.com/wp-sitemap.xml",
+    "product_count": 169,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Trianco": {
+    "domain": "www.trian.co.uk",
+    "sitemap": "https://www.trian.co.uk/sitemap.xml",
+    "product_count": 4,
+    "status": "low_count",
+    "last_checked": "2026-04-21"
+  },
+  "Sunsynk": {
+    "domain": "www.sunsynk.org",
+    "sitemap": "https://www.sunsynk.org/de_de-sitemap.xml",
+    "product_count": 118,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Sanctuary Bathrooms": {
+    "domain": "www.sanctuary-bathrooms.co.uk",
+    "sitemap": "https://www.sanctuary-bathrooms.co.uk/sitemap-pages.xml",
+    "product_count": 26,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "London Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Hall Clip": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Jean Muller": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Fountain Kitchens and Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Bathroom Discount Centre": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "corbettselectrical": {
+    "domain": "corbettselectrical.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Flames.co.uk": {
+    "domain": "www.flames.co.uk",
+    "sitemap": "https://www.flames.co.uk/sitemap.xml",
+    "product_count": 2019,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "ETC Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Stevenson Plumbing & Electrical Supplies": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Ray Grahams": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "mepstock.co.uk": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "National Pumps and Boilers": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Currys Business": {
+    "domain": "www.currys.co.uk",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Myson": {
+    "domain": "www.myson.co.uk",
+    "sitemap": "https://www.myson.co.uk/sitemap.xml",
+    "product_count": 179,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Build4Less": {
+    "domain": "build4less.co.uk",
+    "sitemap": "https://build4less.co.uk/sitemap.xml",
+    "product_count": 18914,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Power Tools Direct": {
+    "domain": "www.power-tools.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "K9 Plumbing Supplies": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Cookers And Ovens": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Kempston Controls": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Joule Cylinders": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Enviro-Flame": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "The Tap Specialist": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Solax": {
+    "domain": "www.solax.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Just Radiators": {
+    "domain": "www.just-radiators.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Nisbets.co.uk": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Roof Giant": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Falcon Electrical Wholesalers": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Junction 2 Interiors": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "RDO Kitchens & Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "nphplumbingandheating.co.uk": {
+    "domain": "nphplumbingandheating.co.uk",
+    "sitemap": "https://nphplumbingandheating.co.uk/sitemap.xml",
+    "product_count": 521,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Adapt Life": {
+    "domain": "adapt-life.com",
+    "sitemap": "https://adapt-life.com/sitemap.xml",
+    "product_count": 1,
+    "status": "low_count",
+    "last_checked": "2026-04-21"
+  },
+  "JT Pickfords": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "housingunits.co.uk": {
+    "domain": "www.housingunits.co.uk",
+    "sitemap": "https://www.housingunits.co.uk/sitemap.xml",
+    "product_count": 10147,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "OnBuy.com": {
+    "domain": "www.onbuy.com",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Complete Care Shop": {
+    "domain": "www.complete-care.com",
+    "sitemap": "https://www.complete-care.com/sitemap_index.xml",
+    "product_count": 80,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Tanks Direct": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Status Home Care": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Alert Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Bathroom Spare Parts": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Stellisons Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Heating Spares": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "ABC Direct": {
+    "domain": "abc.com",
+    "sitemap": "https://abc.com/sitemapindex-blogs.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Cattermole Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Kitchen Warehouse UK": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "The Bathroom Accessory Company": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Electrical Discount UK": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "NotJustTaps": {
+    "domain": "www.notjusttaps.co.uk",
+    "sitemap": "https://www.notjusttaps.co.uk/sitemap.xml",
+    "product_count": 3774,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Ideal Boilers": {
+    "domain": "www.ideal-boilers.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Bella Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Express Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Heating & Plumbing World": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Edwardes.co.uk": {
+    "domain": "www.edwardes.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Joule Cylinders next day": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "RSF Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Safe Fire Direct": {
+    "domain": "www.safe-fire.com",
+    "sitemap": "https://www.safe-fire.com/sitemap.xml",
+    "product_count": 41,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Ariston": {
+    "domain": "www.ariston.com",
+    "sitemap": "https://www.ariston.com/sitemap.xml",
+    "product_count": 314,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Tesla UK": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "SolaX": {
+    "domain": "www.solax.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Downlights Direct": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Purewell Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Emlite": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Peter Cox Catering Equipment": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Tesco": {
+    "domain": "www.tesco.com",
+    "status": "dead",
+    "last_checked": "2026-04-21"
+  },
+  "Waterpump.co.uk": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Gillman's": {
+    "domain": "www.gillmans.co.uk",
+    "sitemap": "https://www.gillmans.co.uk/sitemap_index.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Electric Radiator Superstore": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Bathroom City": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "HSD online": {
+    "domain": "www.hsd.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Worcester-Bosch": {
+    "domain": "www.worcester-bosch.co.uk",
+    "sitemap": "https://www.worcester-bosch.co.uk/sitemap.xml",
+    "product_count": 2723,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Professional Building Supplies": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "C & A Building Products": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "J Harries Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Stuart Turner": {
+    "domain": "stuart-turner.co.uk",
+    "sitemap": "http://stuart-turner.co.uk/sitemap_index.xml",
+    "product_count": 81,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "plumbing4home.com": {
+    "domain": "plumbing4home.com",
+    "sitemap": "https://plumbing4home.com/sitemap.xml",
+    "product_count": 1604,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Phairs": {
+    "domain": "phairs.com",
+    "sitemap": "https://phairs.com/sitemap.xml",
+    "product_count": 3501,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Letta London": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "theunderfloorheatingsite.co.uk": {
+    "domain": "theunderfloorheatingsite.co.uk",
+    "sitemap": "https://theunderfloorheatingsite.co.uk/sitemap.xml",
+    "product_count": 1026,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Catering Appliance Superstore": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Arrow Electrical": {
+    "domain": "arrow-electrical.co.uk",
+    "sitemap": "https://arrow-electrical.co.uk/sitemap_index.xml",
+    "product_count": 25,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Hughes": {
+    "domain": "www.hughes.co.uk",
+    "sitemap": "https://www.hughes.co.uk/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Selco Builders Warehouse": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Plumb Xtra": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Rapid Racking": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "BathroomSupaStore": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Aquahot": {
+    "domain": "www.aquahot.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "gasfiresandelectricals.com": {
+    "domain": "gasfiresandelectricals.com",
+    "sitemap": "https://gasfiresandelectricals.com/sitemap.xml",
+    "product_count": 304,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Taps.co.uk": {
+    "domain": "www.taps.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "www.dragonsbreathsolar.co.uk": {
+    "domain": "dragonsbreathsolar.co.uk",
+    "sitemap": "https://dragonsbreathsolar.co.uk/sitemap_index.xml",
+    "product_count": 819,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Sonic Direct": {
+    "domain": "www.sonic.com",
+    "sitemap": "https://www.sonic.com/sitemap.xml",
+    "product_count": 65,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Bathroom Shop UK": {
+    "domain": "www.bathroom-shop.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Fireplace Supermarket": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Staines & Brights": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Hylands Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "i-sells.co.uk": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Miscellaneous": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "NXT Hardware & Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Boilers & Taps": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Northern Tank Store": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "The Plumb & Electric Store": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Tattahome": {
+    "domain": "www.tattahome.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Catering Centre": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Expert Electrical": {
+    "domain": "www.expert-electrical.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Lime Kitchen & Bathroom": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "The Underfloor Heating Company": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Stove Megastore": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "SaveMoneyCutCarbon": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Appliance City": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Simply Stoves": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Lamplec": {
+    "domain": "www.lamplec.co.uk",
+    "sitemap": "https://www.lamplec.co.uk/sitemap.xml",
+    "product_count": 24583,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Samsung UK": {
+    "domain": "www.samsung.com",
+    "sitemap": "https://www.samsung.com/sitemap.xml",
+    "product_count": 400213,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Hanson Electrical": {
+    "domain": "www.hanson-electrical.co.uk",
+    "sitemap": "https://www.hanson-electrical.co.uk/sitemap.xml",
+    "product_count": 9,
+    "status": "low_count",
+    "last_checked": "2026-04-21"
+  },
+  "Bathroom Republic": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Marks Electrical": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "The Appliance Company": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Glowworm": {
+    "domain": "www.glow-worm.co.uk",
+    "sitemap": "https://www.glow-worm.co.uk/xml-sitemap-index-521135.xml",
+    "product_count": 75,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Bosch": {
+    "domain": "www.bosch.co.uk",
+    "sitemap": "https://www.bosch.co.uk/sitemap.xml",
+    "product_count": 240,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Boots Kitchen Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Bosch Home Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "West End DIY": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "My Switch Shop": {
+    "domain": "switchcarrental.co.uk",
+    "sitemap": "https://switchcarrental.co.uk/sitemap.xml",
+    "product_count": 782,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "GlowWorm": {
+    "domain": "www.glow-worm.co.uk",
+    "sitemap": "https://www.glow-worm.co.uk/xml-sitemap-index-521135.xml",
+    "product_count": 75,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Cable World": {
+    "domain": "www.cable-world.co.uk",
+    "sitemap": "https://www.cable-world.co.uk/sitemaps-1-sitemap.xml",
+    "product_count": 240,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Underfloor Heating UK": {
+    "domain": "www.brandwise.co.uk",
+    "sitemap": "https://www.brandwise.co.uk/sitemap.xml",
+    "product_count": 3350,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "atsplumbing.co.uk": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Power Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Modern Kitchen Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Rapyal Stores": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Steam Shower Parts": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "oneclicksupplies.co.uk": {
+    "domain": "www.oneclicksupplies.co.uk",
+    "sitemap": "https://www.oneclicksupplies.co.uk/sitemap.xml",
+    "product_count": 18575,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Electrical World": {
+    "domain": "electrical-world.com",
+    "sitemap": "https://electrical-world.com/sitemap.xml",
+    "product_count": 209,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Kingsway Plumbing-Toilet Spares": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Heatingspares247.com": {
+    "domain": "heatingspares247.com",
+    "sitemap": "https://heatingspares247.com/sitemap_index.xml",
+    "product_count": 8565,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "TWS Plastics Online Store": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Trade Radiators": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "WarmFlow": {
+    "domain": "www.warmflow.co.uk",
+    "sitemap": "https://www.warmflow.co.uk/sitemap.xml",
+    "product_count": 30,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "eibmarkt.com": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "RS UK": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "BLT Direct": {
+    "domain": "www.blt.co.uk",
+    "sitemap": "https://www.blt.co.uk/sitemap.xml",
+    "product_count": 113,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Advantage Catering Equipment": {
+    "domain": "www.advantage-catering-equipment.co.uk",
+    "sitemap": "https://www.advantage-catering-equipment.co.uk/sitemap.xml",
+    "product_count": 25001,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Chas Newens Marine": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Worktop City": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Fireside By Design Online": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Tippers": {
+    "domain": "tvsinterfleet.com",
+    "sitemap": "https://tvsinterfleet.com/sitemap_index.xml",
+    "product_count": 43,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Beatsons Direct": {
+    "domain": "www.beatsons.co.uk",
+    "sitemap": "https://www.beatsons.co.uk/sitemap-index.xml",
+    "product_count": 1125,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Gadcet.co.uk": {
+    "domain": "www.gadcet.com",
+    "sitemap": "https://www.gadcet.com/sitemap.xml",
+    "product_count": 20011,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Solar Trade Sales": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Battery Group": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Grundfos Pumps Ltd": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "supplieddirect.co.uk": {
+    "domain": "www.supplieddirect.co.uk",
+    "sitemap": "https://www.supplieddirect.co.uk/sitemap.xml",
+    "product_count": 12643,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Furniture 123": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "LightBulbs Direct": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "OGormans": {
+    "domain": "www.ogormans.co.uk",
+    "sitemap": "https://www.ogormans.co.uk/sitemap.xml",
+    "product_count": 2795,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Appliance Depot": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Simple Home Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "The Wetroom Store": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "CountyElec": {
+    "domain": "www.countyelec.co.uk",
+    "sitemap": "https://www.countyelec.co.uk/sitemap.xml",
+    "product_count": 2143,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Easy Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Adey": {
+    "domain": "adey.com",
+    "sitemap": "https://adey.com/sitemap_index.xml",
+    "product_count": 215,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "SOTEL": {
+    "domain": "www.sotel.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "The Appliance Centre Online": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Gosparky": {
+    "domain": "gosparky.co.uk",
+    "sitemap": "https://gosparky.co.uk/sitemap.xml",
+    "product_count": 5561,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Tigo": {
+    "domain": "www.millicom.com",
+    "sitemap": "https://www.tigo.com.xx/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "CS Catering Equipment": {
+    "domain": "www.cs-catering-equipment.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "McAlpine": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Next": {
+    "domain": "www.next.co.uk",
+    "sitemap": "https://www.next.co.uk/sitemap-index.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Williams Electrical": {
+    "domain": "www.williams-electrical.co.uk",
+    "sitemap": "https://www.williams-electrical.co.uk/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Uheat": {
+    "domain": "www.uheat.co.uk",
+    "sitemap": "https://www.uheat.co.uk/xmlsitemap.php",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "TankDepot.co.uk": {
+    "domain": "www.tankdepot.co.uk",
+    "sitemap": "https://www.tankdepot.co.uk/sitemap_index.xml",
+    "product_count": 403,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Simply Safety Group": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "The Radiator Warehouse": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Beesley & Fildes": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "KCS": {
+    "domain": "www.kcs.co.uk",
+    "sitemap": "https://www.kcs.co.uk/media/sitemap/sitemap.xml",
+    "product_count": 18719,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "ESi Controls": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Best Quality Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "PEC Lights": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Alexanders": {
+    "domain": "alexanders.com",
+    "sitemap": "https://alexanders.com/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "BargainStore.UK": {
+    "domain": "www.bargainstore.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Euronics": {
+    "domain": "www.euronics.co.uk",
+    "sitemap": "https://www.euronics.co.uk/sitemap.xml",
+    "product_count": 5147,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Drainage Superstore": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Hotpoint UK": {
+    "domain": "www.hotpoint.co.uk",
+    "sitemap": "https://www.hotpoint.co.uk/sitemap.xml",
+    "product_count": 426,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Appliance Superstore": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "SND Electrical": {
+    "domain": "www.snd-electrical.co.uk",
+    "sitemap": "https://www.snd-electrical.co.uk/sitemap.xml",
+    "product_count": 17,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "MAIN": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "tanksforeverything": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Fireplace Factory Outlet": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Downlights.co.uk": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Taps4Less.com": {
+    "domain": "www.taps4less.com",
+    "sitemap": "https://www.taps4less.com/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Poole Lighting Factory Shop": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Garden & Pet Supplies": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Fastwarm Underfloor Heating": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "CMD Online": {
+    "domain": "cmd.co.uk",
+    "sitemap": "https://cmd.co.uk/sitemap.xml",
+    "product_count": 13,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Coopers Home Appliances": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Designer Radiator Showroom": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "The UFH Group": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Bidet Showers": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Underfloor Heating Express": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Heatmiser UK": {
+    "domain": "www.heatmiser.com",
+    "sitemap": "https://www.heatmiser.com/sitemap.xml",
+    "product_count": 144,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "LambdaTek": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Drayton, By Schneider Electric": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Trianco Boilers": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Smyth Patterson": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Plumbing For Less": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Valve Kings": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Zip Water": {
+    "domain": "www.zip-water.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "JD Williams": {
+    "domain": "recreatingdawn.com",
+    "sitemap": "https://recreatingdawn.com/sitemap.xml",
+    "product_count": 35,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Building Supplies Online": {
+    "domain": "mkm.com",
+    "sitemap": "https://mkm.com/sitemaps/product_sitemap_1.xml",
+    "product_count": 10000,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Purely Electrique": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Asturias Bathrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "WaterBoilersDirect.com": {
+    "domain": "www.waterboilersdirect.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Wholesale Glass Co.": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Electricals247": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Nova Therm Ltd": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Electric Vault": {
+    "domain": "www.electric-vault.co.uk",
+    "sitemap": "https://www.electric-vault.co.uk/sitemap.xml",
+    "product_count": 1422,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Kitchen Worktops Online": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Kitchens and Bathrooms UK": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Essentials Fix": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Indulgent Bathing": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Local Plumbing Supplies": {
+    "domain": "www.local-plumbing.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "UK Bathroom Warehouse": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "DKB Elegance": {
+    "domain": "www.dkb-elegance.co.uk",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Appliance Electronics": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Peachman Catering Equipment": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "clickbasin": {
+    "domain": "www.clickbasin.co.uk",
+    "sitemap": "https://www.clickbasin.co.uk/sitemap/index.xml",
+    "product_count": 922,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Builders Super Store": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "QBIC Washrooms": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Sparesbase": {
+    "domain": "www.sparesbase.co.uk",
+    "sitemap": "http://www.sparesbase.co.uk/sitemap.xml",
+    "product_count": 36741,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "MGN Builders Merchants": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Under Floor Heating Supply": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "J B Postle & Sons": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Mr Resistor": {
+    "domain": "www.mr-resistor.co.uk",
+    "sitemap": "https://www.mr-resistor.co.uk/sitemap.xml",
+    "product_count": 11829,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Lyco Direct": {
+    "domain": "www.lyco.co.uk",
+    "sitemap": "https://www.lyco.co.uk/img/core/lyco/feed/sitemaps/general_sitemap_lyco_295_gb.xml",
+    "product_count": 6754,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Senso Fireplaces": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "DEKS": {
+    "domain": "www.deks.co.uk",
+    "sitemap": "https://www.deks.co.uk/sitemap.xml",
+    "product_count": 90,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Just Baths": {
+    "domain": "www.just-baths.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "HiF Kitchens": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "stewartandgibson.co.uk": {
+    "domain": "www.stewartandgibson.co.uk",
+    "sitemap": "https://www.stewartandgibson.co.uk/sitemap.xml",
+    "product_count": 11994,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Lawson HIS": {
+    "domain": "www.lawson-his.co.uk",
+    "sitemap": "https://www.lawson-his.co.uk/sitemap/sitemap.xml",
+    "product_count": 30000,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Just Fans": {
+    "domain": "www.just-fans.com",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Filter Flair": {
+    "domain": "www.filter-flair.com",
+    "sitemap": null,
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "Staffs Appliance Centre": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "AB Building Products": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Taskers": {
+    "domain": "www.taskers.co.uk",
+    "sitemap": "/sitemap.xml",
+    "product_count": 0,
+    "status": "no_sitemap",
+    "last_checked": "2026-04-21"
+  },
+  "DirectStoves.com": {
+    "domain": "www.directstoves.com",
+    "sitemap": "https://www.directstoves.com/media/direct_stoves_sitemap.xml",
+    "product_count": 3547,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "The One Stop Bathroom Shop": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Target Tiles": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Howarth Timber & Building Supplies": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Paperstone": {
+    "domain": "www.paperstone.co.uk",
+    "sitemap": "https://www.paperstone.co.uk/sitemap.xml",
+    "product_count": 64166,
+    "status": "ok",
+    "last_checked": "2026-04-21"
+  },
+  "Toilet Spare Parts": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  },
+  "Catering Appliances UK": {
+    "status": "domain_not_found",
+    "last_checked": "2026-04-21"
+  }
+}

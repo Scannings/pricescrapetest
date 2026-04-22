@@ -1,0 +1,23 @@
+# Reports output (synced separately via Google Drive)
+reports/
+
+# Local Tableau/data exports — never commit these
+*.csv
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
