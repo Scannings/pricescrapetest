@@ -28,7 +28,7 @@ from datetime import datetime
 import openpyxl
 import requests
 
-MATCHES_PATH   = r"C:\Users\Simon\Downloads\Competitor Matching_Full Data_data (9).xlsx"
+from config import MATCHES_PATH
 CONFIG_PATH    = os.path.join(os.path.dirname(os.path.abspath(__file__)), "competitor_config.json")
 REQUEST_DELAY  = 0.4   # seconds between requests
 TIMEOUT        = 8

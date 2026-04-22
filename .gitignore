@@ -1,3 +1,6 @@
+# Local config — contains machine-specific paths, never commit
+config.py
+
 # Reports output (synced separately via Google Drive)
 reports/
 

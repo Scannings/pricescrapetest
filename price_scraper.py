@@ -41,8 +41,7 @@ TITLE_MATCH_THRESHOLD = 72     # minimum fuzzy match % to accept a URL
 COST_FLOOR_TOLERANCE  = 0.10   # reject if competitor price > 10% below our unit cost
 TOP_N_PRODUCTS        = 50     # default scrape depth (override via CLI arg)
 
-CATALOG_PATH = r"C:\Users\Simon\Downloads\Price Vs Cost_Full Data_data (42).xlsx"
-MATCHES_PATH = r"C:\Users\Simon\Downloads\Competitor Matching_Full Data_data (9).xlsx"
+from config import CATALOG_PATH, MATCHES_PATH
 CONFIG_PATH  = os.path.join(os.path.dirname(os.path.abspath(__file__)), "competitor_config.json")
 REPORTS_DIR  = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "reports")
 
